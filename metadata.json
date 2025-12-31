@@ -1,0 +1,7 @@
+{
+  "name": "Offline Expense, Loan & Delivery Manager",
+  "description": "A high-performance, offline-first personal finance and delivery earnings tracker with fuel tank intelligence and automated profit calculation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
